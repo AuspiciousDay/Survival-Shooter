@@ -28,6 +28,7 @@ public class UIManager : MonoBehaviour
     }
     public void SetActivePaused(bool active)
     {
+        Time.timeScale = active ? 0f : 1f;
         pausedUI.SetActive(active);
     }
 }

@@ -184,7 +184,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 0}
   m_PlayOnAwake: 1
-  m_Volume: 0
+  m_Volume: 0.43505865
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -311,7 +311,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 8
   traceDistance: 25
-  attackDistance: 1
+  attackDistance: 1.5
   particle: {fileID: 2999055621403729013}
   EnemyCollider: {fileID: 2151940417263083519}
   hitClip: {fileID: 8300000, guid: 02e6208ec76314158a9f548f51fe9f11, type: 3}
